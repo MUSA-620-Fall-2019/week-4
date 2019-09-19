@@ -1,4 +1,4 @@
-# Week 4<br>More Interactive Data Viz, Getting Started with APIs
+# Week 4<br>More Interactive Data Viz, Working with Raster Data
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MUSA-620-Fall-2019/week-4/master?filepath=lecture-4.ipynb)
 
@@ -11,7 +11,7 @@ First, download the `environment.yml` file in this repository to your computer.
 Then you can run, from either the Anaconda Prompt (Windows) or Terminal app (MacOS):
 
 ```
-conda env update --file environment.yml --name musa
+conda env update --file environment.yml --name musa-620
 ```
 
 where `musa` should be the name of the environment you have been using.
@@ -19,7 +19,7 @@ where `musa` should be the name of the environment you have been using.
 Then you can activate the environment and start a notebook
 
 ```
-conda activate musa
+conda activate musa-620
 ```
 
 ## Topics
